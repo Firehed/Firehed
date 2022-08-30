@@ -23,6 +23,10 @@ You can find more about me at [ericstern.com](https://www.ericstern.com)!
 - [Run checks inside Docker](https://github.com/Firehed/docker-check-action)
 - [Lint PHP](https://github.com/Firehed/lint-php-action)
 
+## 📄 Template Repositories
+- [PHP Project](https://github.com/Firehed/php-project-template)
+- [PHP Library](https://github.com/Firehed/php-library-template)
+
 <!--
 
 Here are some ideas to get you started:
