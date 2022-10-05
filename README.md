@@ -6,6 +6,10 @@ You can find more about me at [ericstern.com](https://www.ericstern.com)!
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 🐰
 
+## 💸 Sponsorship
+If you find my work valuable, I'd appreciate it if you'd consider [sponsoring me](https://github.com/sponsors/Firehed).
+Never required, but it would mean a lot to me!
+
 ## 🔐 PHP Security Tools
 
 - [WebAuthn](https://github.com/Firehed/webauthn-php)
