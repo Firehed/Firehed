@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm the founder of [SnapAuth](https://www.snapauth.app), the easiest way to go passwordless with passkeys.
+
+I also do consulting, primarily in the security space.
 You can find more about me at [ericstern.com](https://www.ericstern.com)!
 
 - 📫 How to reach me: github@ericstern.com
